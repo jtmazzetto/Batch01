@@ -1,0 +1,9 @@
+1º Unzip the "NetExtender.7.0.196.MSI.7z" file.
+2º Install NetExtender.
+3º Open NetExtender.
+4º Fill up with the following information:
+	Server: rmt.marti.com.mx
+	Username: (Your username)
+	Password: (Your password)
+	Domain: marti.com.mx
+5º Press "Connect"

@@ -1,0 +1,103 @@
+======================================================================================================
+FDA
+======================================================================================================
+/oretail/apprms/retail_home/log
+/oretail/apprms/retail_home/error
+/oretail/apprms/retail_home/oracle/proc/src/
+/oretail/apprms/retail_home/oracle/proc/exec
+
+/oretail/reim/retail_home/reim-batch/batch
+[webreim@PROD-momapp05 batch]$ ./reimposting reim-batch
+
+/oretail/webrpm/retail_home/rpm-batch/scripts/error
+
+/oracle/websim/fmw/user_projects/domains/SIMDomain/retail/sim16/batch/bin
+
+Não sei se soubeste. Mas as passwords das VPNs mudaram.
+
+Ext_Smartinez6
+WD79yG$o
+
+Ext_Smartinez8
+nW%zrpiq
+
+Ext_Smartinez9
+lZ#bgZ6R
+
+[17:44] Pedro Miguel dos Santos Oliveira
+FDA Automic PROD http://172.16.1.27:8080/awi/#home/dashboards
+Department RC
+Client 500
+Name RC.500 Password: Oracle123
+ heart 1
+
+A VPN é a Check Point Endpoint Security (Triara)
+200.53.186.9
+Usuario: Ext_Smartinez6
+Password: hoszOmj5
+
+189.193.233.2
+User : Ext_manuel.magina
+Pass : uZk0fsJX
+
+User : Ext_kerley.gontijo
+Pass : lwDnqAbN
+
+•	Automic: http://172.16.10.137:8080/awi/
+•	Client: 500
+•	User: RC.MONITORING
+•	Pass: RC.MONITORING
+------------------------------------------------------------------
+Mas têm de ser usadas com o IP 200.53.186.9:
+
+Usuario: Ext_Smartinez5
+Password: @pSzc86z
+--------------------------------
+Usuario: Ext_Smartinez6
+Password: WD79yG$o
+--------------------------------
+Usuario: Ext_Smartinez7
+Password: nW%zrpiq
+--------------------------------
+Usuario: Ext_Smartinez9
+Password: lZ#bgZ6R
+------------------------------------------------------------------
+
+======================================================================================================
+TATA
+======================================================================================================
+ReIM Weblogic
+http://prd-reim-app01:9001/console
+http://172.16.41.8:9001/console
+
+weblogic
+COFulLho13
+
+oracle
+oR4PROD15-19
+
+parfois
+/u01/SHARES/rmsbatch/mmhome/error
+
+SIT e UAT
+USER : rc_cms
+PASSWORD : wPolwVLA
+
+======================================================================================================
+TIA
+======================================================================================================
+rc_user	tiaretail123
+http://alecp023.tia.com.ec:7001/console
+
+alecp025.tia.com.ec
+webreim welcome1
+
+alecp023.tia.com.ec
+apprms welcome1
+
+
+
+
+15635479
+
+

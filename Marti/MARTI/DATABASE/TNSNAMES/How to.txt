@@ -1,0 +1,7 @@
+1º Left-Click over "INSTALL_TNSNAMES.bat" and RUN as Administrator.
+2º Check if your TNSNAMES file changed.
+3º Done.
+
+ALTERNATIVE:
+
+COPY / PASTE the TNSNAMES inside "Manual" folder from "Tnsnames".ora file to your Tnsnames.ora file.

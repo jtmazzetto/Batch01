@@ -1,0 +1,6 @@
+1º Download "TortoiseSVN" from https://tortoisesvn.net/downloads.html.
+2º Install "TortoiseSVN"
+3º Configure a folder to put Martí SVN.
+4º Configuration:
+	IP: https://10.197.50.200:18080/svn/RC06003/trunk
+5º Done.

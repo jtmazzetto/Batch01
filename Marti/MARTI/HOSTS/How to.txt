@@ -1,0 +1,7 @@
+1º Left-Click over "INSTALL_HOSTS.bat" and RUN as Administrator.
+2º Check if your hosts file changed.
+3º Done.
+
+ALTERNATIVE:
+
+COPY / PASTE the HOSTS inside "Manual" folder from "hosts".txt file to your HOSTS file

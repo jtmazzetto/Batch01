@@ -1,0 +1,5 @@
+1º Download nRemoteNG from https://mremoteng.org/download
+2º Install nRemoteNG
+3º Open nRemoteNG
+4º File > Open Connection File... (Then select marti.xml to import all the settings)
+5º Done.
